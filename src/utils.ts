@@ -7,7 +7,7 @@ export function checkDir(dir: string): boolean {
 		if (stat.isDirectory()) return false;
 	}
 
-	mkdirSync(dir);
+	mkdirSync(dir, { recursive: true });
 	return true;
 }
 
