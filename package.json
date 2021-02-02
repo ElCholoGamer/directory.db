@@ -1,7 +1,7 @@
 {
 	"name": "directory.db",
 	"description": "Flexible, elegant and blazing-fast data storage.",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"main": "dist/index.js",
 	"typings": "dist/index.d.ts",
 	"author": "ElCholoGamer <josedanielgrayson@gmail.com>",
