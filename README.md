@@ -1,4 +1,4 @@
-# folder.db
+# directory.db
 
 Flexible, elegant and blazing-fast data storage.
 
@@ -7,20 +7,20 @@ Flexible, elegant and blazing-fast data storage.
 Using npm:
 
 ```
-$ npm i folder.db
+$ npm i directory.db
 ```
 
 Using Yarn:
 
 ```
-$ yarn add folder.db
+$ yarn add directory.db
 ```
 
 ## Example usage
 
 ```js
-import FolderDB from 'folder.db'; // ES Module
-const FolderDB = require('folder.db').default; // CommonJS
+import FolderDB from 'directory.db'; // ES Module
+const FolderDB = require('directory.db').default; // CommonJS
 
 // Create a database
 const db = new FolderDB('./storage/user_data');
