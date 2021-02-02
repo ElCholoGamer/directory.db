@@ -1,6 +1,6 @@
 import { join } from 'path';
 import DJSCollection from '@discordjs/collection';
-import FolderDB from './folder-db';
+import FolderDB from './directory-db';
 import Document from './document';
 import { checkDir, validateFolder } from '../utils';
 import { readdirSync } from 'fs';
