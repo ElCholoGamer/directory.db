@@ -1,4 +1,4 @@
-# directory.db
+# directory.db &middot; ![Build status][build]
 
 Flexible, elegant and blazing-fast data storage.
 
@@ -41,3 +41,5 @@ newUser.set('username', 'Deez_Nuts');
 newUser.set('password', '123456');
 newUser.set('pet', 'cat');
 ```
+
+[build]: https://github.com/ElCholoGamer/directory.db/workflows/Build/badge.svg
