@@ -10,16 +10,14 @@
 		"build": "tsc"
 	},
 	"homepage": "https://github.com/ElCholoGamer/directory.db#readme",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ElCholoGamer/directory.db.git"
-	},
+	"repository": "ElCholoGamer/directory.db",
 	"bugs": {
 		"url": "https://github.com/ElCholoGamer/directory.db/issues"
 	},
 	"keywords": [
 		"database",
 		"folder",
+		"directory",
 		"filesystem"
 	],
 	"devDependencies": {
