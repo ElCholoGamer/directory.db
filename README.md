@@ -19,11 +19,11 @@ $ yarn add directory.db
 ## Example usage
 
 ```js
-import FolderDB from 'directory.db'; // ES Module
-const FolderDB = require('directory.db').default; // CommonJS
+import DirectoryDB from 'directory.db'; // ES Module
+const DirectoryDB = require('directory.db').default; // CommonJS
 
 // Create a database
-const db = new FolderDB('./storage/user_data');
+const db = new DirectoryDB('./storage/user_data');
 
 // Get a collection from the database
 const users = db.getCollection('users');
